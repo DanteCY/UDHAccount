@@ -1,0 +1,6 @@
+framework module UDHAccount {
+  umbrella header "UDHAccount.h"
+
+  export *
+  module * { export * }
+}
